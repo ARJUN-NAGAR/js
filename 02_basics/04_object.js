@@ -69,16 +69,17 @@ const {courseInstructor: instructor} = course
 
 // console.log(courseInstructor);
 console.log(instructor);
-
+// first API comes in XML langusge now comes in jason; jason is nothing but object.  down below
 // {
 //     "name": "hitesh",
 //     "coursename": "js in hindi",
 //     "price": "free"
 // }
 
-
+//   API in array format
+//   jason formatter to understand API
 [
     {},
     {},
-    {}
+    {} 
 ]
